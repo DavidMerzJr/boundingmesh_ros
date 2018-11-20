@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>boundingmesh_ros</name>
+  <version>0.0.0</version>
+  <description>The Boundingmesh Catkin Package</description>
+  <maintainer email="david.merz@swri.org">David Merz</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
+

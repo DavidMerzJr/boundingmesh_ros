@@ -1,0 +1,3 @@
+[submodule "bounding-mesh"]
+	path = bounding-mesh
+	url = https://github.com/DavidMerzJr/bounding-mesh.git
